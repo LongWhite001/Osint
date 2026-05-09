@@ -19,6 +19,6 @@ mais avançados.
 Sandbox de Malwere, e muitas outras ferramentas.
 Ferramentas para Verificacao de Virus recomendadas:
 
-Hybrid analysis
-virus total
-Meta Defender
+Hybrid analysis, virus total, Meta Defender.
+
+
