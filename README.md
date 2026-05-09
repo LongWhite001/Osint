@@ -14,3 +14,11 @@ Ela visa encontrar informações na internet, redes sociais, notícias e registr
 
 05 - Gerador de Inteligência Cibernética: Inteligencia Cibernetica para Osint, desde criar wordlis, a passoas
 mais avançados.
+
+06 - BoiTaTa: Boitata contem multiplas ferramentas para OSINT, e Verificacao de Virus em Arquivos com a opção
+Sandbox de Malwere, e muitas outras ferramentas.
+Ferramentas para Verificacao de Virus recomendadas:
+
+Hybrid analysis
+virus total
+Meta Defender
