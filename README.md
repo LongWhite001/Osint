@@ -9,3 +9,5 @@ Ela visa encontrar informações na internet, redes sociais, notícias e registr
 02 - LinKook: O Linkook (ou Linkook) é uma ferramenta de código aberto (OSINT - Open Source Intelligence) projetada para investigar e encontrar contas de redes sociais e e-mails associados a um único nome de usuário (username).
 
 03 - GHunt: Busca de dados pelo Gmail.
+
+04 - Namint: Busca de Usuarios por nomes em redes Sociais.
