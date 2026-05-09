@@ -11,3 +11,6 @@ Ela visa encontrar informações na internet, redes sociais, notícias e registr
 03 - GHunt: Busca de dados pelo Gmail.
 
 04 - Namint: Busca de Usuarios por nomes em redes Sociais.
+
+05 - Gerador de Inteligência Cibernética: Inteligencia Cibernetica para Osint, desde criar wordlis, a passoas
+mais avançados.
