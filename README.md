@@ -22,3 +22,11 @@ Ferramentas para Verificacao de Virus recomendadas:
 Hybrid analysis, virus total, Meta Defender.
 
 07 - Instant UserName: Buscar Usuarios em Redes Sociais.
+
+08 - User Scanner Buscar Contas de Usuarios: Um poderoso pacote OSINT 2 em 1 que combina OSINT de e-mail aprofundado com varredura
+abrangente de nomes de usuário. Com mais de 195 vetores de varredura — incluindo mais de 95 sites integrados a e-mail e mais
+de 100 plataformas de nomes de usuário — você pode identificar rastros digitais ou verificar
+registros de contas em segundos.
+A ferramenta definitiva para encontrar um nome de usuário único no GitHub, X, Reddit, Instagram
+e muito mais com um único comando.
+
